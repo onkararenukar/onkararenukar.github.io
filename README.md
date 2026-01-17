@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Hi, I'm Onkar Renukar!
 
-# Run and deploy your AI Studio app
+I am a Product Engineer and Java Developer with 6 years of experience building robust applications and automation frameworks. I specialize in the Java ecosystem, using tools like Selenium and Cucumber to ensure software quality and reliability.
 
-This contains everything you need to run your app locally.
+🚀 What I'm working on:
 
-View your app in AI Studio: https://ai.studio/apps/drive/15v1bYxTn3P32BGJOkYat5gl5cLr-Pkfb
+Core Tech: Developing efficient solutions using Java and Java Swing.
 
-## Run Locally
+ByteQore Hustle: My personal brand focused on programming education and software development.
 
-**Prerequisites:**  Node.js
+Automation: Building custom tools, including Google Sheets automation for habit tracking and inventory management.
 
+🌱 Current Goals:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Mastering Data Structures & Algorithms for high-level engineering roles.
+
+Learning the German language (Preparing for A1) to expand my professional horizons to Europe.

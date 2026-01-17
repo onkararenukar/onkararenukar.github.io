@@ -100,10 +100,6 @@ export const EXPERIENCE: ExperienceItem[] = [
 
 export const CERTIFICATIONS: Certification[] = [
   {
-    title: "ORACLE Certified Java Developer",
-    description: "Professional certification demonstrating deep expertise in Java programming and application development."
-  },
-  {
     title: "Code Optimization Lead",
     description: "Recognized for leading performance enhancement initiatives and critical application deployments in the Banking domain."
   }
